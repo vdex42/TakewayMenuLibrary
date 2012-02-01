@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MenuLibraryActivity!</string>
+    <string name="app_name">MenuLibrary</string>
+    <string name="add_new_leaflet">Add new leaflet</string>
+    <string name="new_leaflet_enter_name">Name</string>
+    <string name="new_leaflet_number">Phone number</string>
+    <string name="new_leaflet_take_photo">Take photo of leaflet</string>
+
+</resources>
